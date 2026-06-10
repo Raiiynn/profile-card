@@ -11,7 +11,7 @@ import albumCover from '../assets/album-cover.jpg';
 const tracks = [
   {
     title: 'GOTH',
-    artist: 'Sidewalks and Skeletons',
+    artist: 'Sidewalks & Skeletons',
     albumArt: albumCover,
     duration: '3:26',
     audioSrc: '/audio/GOTH.mp3',
