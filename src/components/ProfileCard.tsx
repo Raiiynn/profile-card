@@ -10,8 +10,8 @@ import albumCover from '../assets/album-cover.jpg';
 
 const tracks = [
   {
-    title: 'Sidewalks and Skeletons - GOTH',
-    artist: 'MOLIY',
+    title: 'GOTH',
+    artist: 'Sidewalks and Skeletons',
     albumArt: albumCover,
     duration: '3:26',
     audioSrc: '/audio/GOTH.mp3',
